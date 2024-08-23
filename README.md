@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 # Contact
 For any questions or suggestions, please feel free to reach out:
 
-- Mail: brijesh29.it11@gmail.com
-- LinkedIn: https://www.linkedin.com/in/brijesh-kapadiya-536406282/
-- GitHub: https://github.com/b-1129
+- **Mail** : brijesh29.it11@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/brijesh-kapadiya-536406282/
+- **GitHub** : https://github.com/b-1129
  
