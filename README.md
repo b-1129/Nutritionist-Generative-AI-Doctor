@@ -1,1 +1,1 @@
-# Nutritionist-Generative-AI-Doctor
+# Nutritionist Generative AI Doctor
