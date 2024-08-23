@@ -31,7 +31,7 @@ Nutritionist Generative AI Doctor is an innovative AI solution that combines ima
 
 - Run App: streamlit run health.py
 
-- Access the application: (It will redirect automatically.) Open your browser and navigate to http://localhost:8000.
+- Access the application: (It will redirect automatically.)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for more details.
