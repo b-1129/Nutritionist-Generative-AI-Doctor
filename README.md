@@ -1,5 +1,10 @@
 # Nutritionist Generative AI Doctor
 
+https://github.com/user-attachments/assets/11ed09c4-77a7-479b-a5fb-2593dbae325b
+
+![WhatsApp Image 2024-05-03 at 18 57 52_5b33e94e](https://github.com/user-attachments/assets/073fa17b-5f94-400f-bd48-d1db5869d7f8)
+
+
 Welcome to the Nutritionist Generative AI Doctor! This project leverages state-of-the-art generative AI techniques to analyze images of food and provide comprehensive nutritional information. By utilizing advanced deep learning models, the application identifies the name of the dish and estimates the calorie content of each ingredient, offering a detailed breakdown for health-conscious users and professionals.
 
 # Table of Contents
